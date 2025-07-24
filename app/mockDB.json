@@ -1,0 +1,8 @@
+{
+  "alerts": [
+    { "id": 1, "title": "Corte programado", "description": "Mantenimiento en la zona", "lat": -33.45, "lng": -70.66, "eta": "2h", "author": "Empresa" }
+  ],
+  "reports": [
+    { "id": 1, "description": "Sin agua desde ayer", "lat": -33.44, "lng": -70.65, "severity": "alta", "manyNeighbors": true, "status": "abierto", "author": "Juan" }
+  ]
+}
